@@ -1,6 +1,6 @@
 # Premier League Player Statistics Dataset 
 
-# I’ve always been fascinated by player insights in the Premier League, especially since my father and I share a passion for watching the matches together. We’re both big Liverpool fans, Go Reds! This project gave me a chance to dive deeper into the stats behind the game we love and build something meaningful from it. 
+I’ve always been fascinated by player insights in the Premier League, especially since my father and I share a passion for watching the matches together. We’re both big Liverpool fans, Go Reds! This project gave me a chance to dive deeper into the stats behind the game we love and build something meaningful from it. 
 
 ## About the Dataset
 
